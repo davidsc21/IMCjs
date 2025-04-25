@@ -34,6 +34,4 @@ Este es un proyecto simple de consola hecho en JavaScript que permite registrar 
 3. Ingresa los datos solicitados.
 4. Observa los resultados en ventanas emergentes (`alert()`).
 
-## 🧠 Notas
 
-- Este programa es
